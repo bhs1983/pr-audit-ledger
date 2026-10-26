@@ -1,0 +1,14 @@
+{
+  "schema": "pr-gate-public/v1",
+  "repo": "pdf-rpg",
+  "pr": 349,
+  "head_sha": "ba76da4b8c861845a20bf86eb92c0efccb980750",
+  "gate": "review_qa",
+  "verdict": "FAIL",
+  "reviewer": "Review/QA",
+  "timestamp_utc": "2026-10-26T03:18:34Z",
+  "signature": null,
+  "proof_sha256": [
+    "c9c30324be6b59a256f16670d72cd077400717a1207920f2f02b8f45b012837d"
+  ]
+}

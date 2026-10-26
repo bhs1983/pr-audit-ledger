@@ -1,0 +1,12 @@
+{
+  "schema": "pr-gate-public/v1",
+  "repo": "NovelAI",
+  "pr": 66,
+  "head_sha": "df111b76f75f43df2f0aabef82272b4bd13848f3",
+  "gate": "team_gate",
+  "verdict": "PASS",
+  "reviewer": "Craft Editor",
+  "timestamp_utc": "2026-10-26T03:59:16Z",
+  "signature": null,
+  "proof_sha256": []
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "pr-gate-public/v1",
+  "repo": "roblox-asset-studio",
+  "pr": 117,
+  "head_sha": "176878ea216d3698130b7af2fec1ca23914554c5",
+  "gate": "review_qa",
+  "verdict": "FAIL",
+  "reviewer": "Review/QA",
+  "timestamp_utc": "2026-10-26T03:03:18Z",
+  "signature": null,
+  "proof_sha256": [
+    "a37a18c84283f883afe9218fa13b71107db57efbc93830d73dbe0595fd6ec846"
+  ]
+}

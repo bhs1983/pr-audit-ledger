@@ -1,0 +1,14 @@
+{
+  "schema": "pr-gate-public/v1",
+  "repo": "NovelAI",
+  "pr": 68,
+  "head_sha": "64b4d4daf661ae1527c0517d6ff4d07f697b7201",
+  "gate": "review_qa",
+  "verdict": "FAIL",
+  "reviewer": "Review/QA",
+  "timestamp_utc": "2026-10-26T07:09:04Z",
+  "signature": null,
+  "proof_sha256": [
+    "c541ea2ddeae4346c5ffdf2e63da2ae318a371d95ed09dd972f18d46a7ad8729"
+  ]
+}
